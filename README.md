@@ -108,27 +108,15 @@ To get started with the to-do app, follow these steps:
 
 ## Screenshots
 
-### Home Screen
-
-![Home Screen](https://example.com/home_screen.png)
-
-The home screen displays a list of all added tasks. Users can delete a task by clicking on the delete button next to each task. The theme switcher is also present on this screen for quick theme changes.
-
-### Add Task Screen
-
-![Add Task Screen](https://example.com/add_task_screen.png)
-
-The Add Task screen provides a simple form to input the task description and a save button to add the task to the list. The newly added task will be displayed on the home screen.
-
 ### Dark Theme
 
-![Dark Theme](https://example.com/dark_theme.png)
+![IMG_20240703_184053](https://github.com/Abubakar-doc/todolistapp/assets/137390804/dc77500c-a25a-40ad-8586-6c9e05cbc6f7)
 
 The app also supports a dark theme, which can be enabled from the settings. The dark theme provides a pleasant experience in low-light environments and reduces eye strain.
 
 ### Light Theme
 
-![Light Theme](https://example.com/light_theme.png)
+![IMG_20240703_184035](https://github.com/Abubakar-doc/todolistapp/assets/137390804/0453ffbb-6b27-422c-91c0-be5a8a07a7c5)
 
 The light theme offers a clean and bright interface suitable for well-lit conditions. The theme can be switched from the settings menu, and the preference is saved for future sessions.
 
