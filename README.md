@@ -105,5 +105,3 @@ The app also supports a dark theme, which can be enabled from the settings. The 
 
 
 ---
-
-Feel free to replace the image links with the actual URLs to your screenshots.
