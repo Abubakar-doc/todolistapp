@@ -87,25 +87,6 @@ To get started with the to-do app, follow these steps:
     flutter run
     ```
 
-## Usage
-
-1. **Adding a Task:**
-    - Navigate to the "Add Task" screen from the home screen.
-    - Enter the task description and click "Save."
-    - The new task will appear on the home screen.
-
-2. **Viewing Tasks:**
-    - All tasks are displayed on the home screen.
-    - The list of tasks is persistent across app restarts.
-
-3. **Deleting a Task:**
-    - Press the delete button next to the task you want to remove.
-    - The task will be deleted from the list.
-
-4. **Switching Themes:**
-    - Go to the app settings and select your preferred theme (dark or light).
-    - The theme will be applied immediately and saved for future sessions.
-
 ## Screenshots
 
 ### Light Theme
