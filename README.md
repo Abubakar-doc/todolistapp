@@ -108,17 +108,18 @@ To get started with the to-do app, follow these steps:
 
 ## Screenshots
 
+### Light Theme
+
+![IMG_20240703_184035](https://github.com/Abubakar-doc/todolistapp/assets/137390804/0453ffbb-6b27-422c-91c0-be5a8a07a7c5)
+
+The light theme offers a clean and bright interface suitable for well-lit conditions. The theme can be switched from the settings menu, and the preference is saved for future sessions.
+
 ### Dark Theme
 
 ![IMG_20240703_184053](https://github.com/Abubakar-doc/todolistapp/assets/137390804/dc77500c-a25a-40ad-8586-6c9e05cbc6f7)
 
 The app also supports a dark theme, which can be enabled from the settings. The dark theme provides a pleasant experience in low-light environments and reduces eye strain.
 
-### Light Theme
-
-![IMG_20240703_184035](https://github.com/Abubakar-doc/todolistapp/assets/137390804/0453ffbb-6b27-422c-91c0-be5a8a07a7c5)
-
-The light theme offers a clean and bright interface suitable for well-lit conditions. The theme can be switched from the settings menu, and the preference is saved for future sessions.
 
 ---
 
