@@ -9,7 +9,8 @@ A simple to-do app built with Flutter that operates on both Android and web plat
 3. **Add Tasks:** Easily add new tasks with a simple form.
 4. **View Tasks:** Displays a list of all added tasks.
 5. **Delete Tasks:** Remove tasks with a single click or by a swipe to the left.
-6. **Persistent Storage:** Keeps tasks across app restarts using in-memory storage.
+6. **Update Tasks:** Updates existing tasks on user commands.
+7. **Persistent Storage:** Keeps tasks across app restarts using in-memory storage.
 
 ## UI Design
 
@@ -23,6 +24,7 @@ A simple to-do app built with Flutter that operates on both Android and web plat
 
 - **Simple Form:** Contains a text input for adding a new task.
 - **Save Button:** Saves the task and navigates back to the home screen where the new task is displayed.
+- **Update Dialog Box:** Updates the existing task and navigates back to the home screen.
 
 ## Dark and Light Themes
 
@@ -53,6 +55,10 @@ This app supports both dark and light themes, providing a visually pleasing expe
 ### Delete Task
 
 - **Remove Task from List:** Each task has a delete button which, when pressed, removes the task from the list.
+
+### Update Task
+
+- **Update Task in the List:** If a similar existing task is found during saving, it can be updated upon user command.
 
 ## Dependencies
 
